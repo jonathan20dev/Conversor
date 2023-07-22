@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.aluraconversor"},{"l":"org.aluraconversor.logica"},{"l":"org.aluraconversor.ui"}]
